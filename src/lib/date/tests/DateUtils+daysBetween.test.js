@@ -1,4 +1,4 @@
-import {daysBetween} from "../DateUtils.js";
+import {daysBetween} from "../DateUtils.jsx";
 
 describe('daysBetween', () => {
     it('1 day diff', () => {

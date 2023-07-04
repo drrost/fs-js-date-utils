@@ -1,4 +1,4 @@
-import {DateUtils} from "./DateUtils.js";
+import {DateUtils} from "./DateUtils.jsx";
 
 export const NOMINATIVE = 'nominative';
 export const ACCUSATIVE = 'accusative';

@@ -1,4 +1,4 @@
-import {DateUtils} from "../DateUtils.js";
+import {DateUtils} from "../DateUtils.jsx";
 
 describe('isValidTime', () => {
     it('Empty string should be false', () => {

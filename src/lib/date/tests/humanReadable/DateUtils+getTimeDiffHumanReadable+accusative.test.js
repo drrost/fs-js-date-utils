@@ -1,4 +1,4 @@
-import {DateUtils} from "../../DateUtils.js";
+import {DateUtils} from "../../DateUtils.jsx";
 import {ACCUSATIVE} from "../../DateUtils+humanReadable.js";
 
 describe('getTimeDiffHumanReadable', () => {

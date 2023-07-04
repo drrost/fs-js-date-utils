@@ -1,4 +1,4 @@
-import {DateUtils} from "../DateUtils.js";
+import {DateUtils} from "../DateUtils.jsx";
 
 describe('getTimeDiffInHours', () => {
     it('Equal times should be 0', () => {
